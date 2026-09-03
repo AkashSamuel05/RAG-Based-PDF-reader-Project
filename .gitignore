@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+token.json
+credentials.json
+chroma/
+data/
+uploads/
+.vscode/
